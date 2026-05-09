@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(node server/index.js)",
+      "Bash(curl -s http://localhost:3001/api/auth/login -X POST -H \"Content-Type: application/json\" -d '{\"username\":\"admin\",\"password\":\"admin123\"}')",
+      "Bash(python3 -c \"import sys,json; [print\\(f\\\\\"{d['dock_no']}: {d['status']} - {d.get\\('vehicle_no','empty'\\)}\\\\\"\\) for d in json.load\\(sys.stdin\\)]\")",
+      "Bash(pkill -f \"node server/index.js\")",
+      "Bash(netstat -ano)",
+      "Bash(taskkill /PID 35800 /F)",
+      "PowerShell(Stop-Process -Id 35800 -Force)",
+      "Bash(node --no-warnings server/index.js)",
+      "Bash(pkill -f \"node --no-warnings server/index.js\")",
+      "Bash(powershell.exe -Command 'Get-NetTCPConnection -LocalPort 3001 -ErrorAction SilentlyContinue | ForEach-Object { Stop-Process -Id $_.OwningProcess -Force -ErrorAction SilentlyContinue }')",
+      "Bash(rm -f /c/Users/Puneet/Desktop/vehicle/server/logs/*.log)",
+      "Bash(rm -f /c/Users/Puneet/Desktop/vehicle/server/uploads/*)",
+      "Bash(powershell.exe -Command 'Get-NetTCPConnection -LocalPort 3001 -ErrorAction SilentlyContinue | ForEach-Object { Stop-Process -Id $_.OwningProcess -Force -ErrorAction SilentlyContinue }; Start-Sleep -Milliseconds 500')",
+      "Bash(node -e ' *)",
+      "Bash(node -e \"require\\('./routes/bulk'\\); console.log\\('bulk router loads OK'\\)\")",
+      "Bash(node -e \"require\\('./queueHelpers'\\); console.log\\('OK'\\)\")",
+      "Bash(node -e \"require\\('./server/db'\\); console.log\\('DB OK'\\)\")",
+      "Bash(node -e \"require\\('./server/index'\\)\")",
+      "Bash(node -e \"let d='';process.stdin.on\\('data',c=>d+=c\\);process.stdin.on\\('end',\\(\\)=>console.log\\(JSON.stringify\\(JSON.parse\\(d\\).slice\\(0,1\\),null,2\\)\\)\\)\")",
+      "Bash(mkdir -p \"C:\\\\Users\\\\Puneet\\\\Desktop\\\\vehicle\\\\pitch\")",
+      "Bash(npm init *)",
+      "Bash(node build.js)",
+      "Bash(node -e \"require\\('./routes/vehicles'\\); console.log\\('OK'\\)\")",
+      "Bash(Rename-Item -Path \"C:\\\\Users\\\\Puneet\\\\Desktop\\\\vehicle\" -NewName \"DMT dock management tool\")",
+      "PowerShell(Rename-Item -Path \"C:\\\\Users\\\\Puneet\\\\Desktop\\\\vehicle\" -NewName \"DMT dock management tool\")"
+    ]
+  }
+}

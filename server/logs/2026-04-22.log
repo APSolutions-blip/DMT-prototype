@@ -1,0 +1,2593 @@
+[22/4/2026, 18:41:43] [INFO ] ========================================
+[22/4/2026, 18:41:43] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 18:41:43] [INFO ] ========================================
+[22/4/2026, 18:41:43] [INFO ] 
+   Open on ALL devices:
+   http://172.16.1.26:3001
+[22/4/2026, 18:41:43] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 18:41:43] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 18:41:43] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 18:41:43] [INFO ] ========================================
+
+[22/4/2026, 18:41:46] [INFO ] Device connected: VsrABzIB40cteGyoAAAB
+[22/4/2026, 18:41:47] [INFO ] Device disconnected: VsrABzIB40cteGyoAAAB
+[22/4/2026, 18:41:47] [INFO ] GET / → 200 (15ms)
+[22/4/2026, 18:41:47] [INFO ] GET /queue → 200 (4ms)
+[22/4/2026, 18:41:47] [INFO ] GET /active → 200 (4ms)
+[22/4/2026, 18:41:47] [INFO ] Device connected: _nwwwN8IFdSqeBhRAAAD
+[22/4/2026, 18:41:53] [INFO ] GET / → 304 (7ms)
+[22/4/2026, 18:42:00] [INFO ] Device connected: KlqTSVQ1FOLJodnoAAAF
+[22/4/2026, 18:42:01] [INFO ] POST / → 200 (44ms)
+[22/4/2026, 18:42:01] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 18:42:01] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 18:42:01] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 18:42:01] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 18:42:01] [INFO ] GET /active → 200 (4ms)
+[22/4/2026, 18:42:01] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 18:42:01] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 18:42:01] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 18:42:01] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 18:42:01] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 18:42:09] [INFO ] POST / → 200 (40ms)
+[22/4/2026, 18:42:09] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 18:42:09] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:42:09] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:42:09] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 18:42:09] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 18:42:09] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:42:09] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:42:09] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 18:42:09] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:42:09] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 18:42:15] [INFO ] POST / → 200 (91ms)
+[22/4/2026, 18:42:15] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 18:42:15] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:42:15] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:42:15] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 18:42:15] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 18:42:15] [INFO ] GET /queue → 304 (4ms)
+[22/4/2026, 18:42:15] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:42:15] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 18:42:15] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:42:15] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:42:22] [INFO ] POST / → 200 (120ms)
+[22/4/2026, 18:42:22] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 18:42:22] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 18:42:22] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:42:22] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 18:42:22] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 18:42:22] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:42:22] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:42:22] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:42:22] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 18:42:22] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:42:23] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 18:42:36] [INFO ] Device disconnected: KlqTSVQ1FOLJodnoAAAF
+[22/4/2026, 18:42:52] [INFO ] POST / → 200 (224ms)
+[22/4/2026, 18:42:52] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 18:42:57] [INFO ] Device connected: TX_KuL6cNj57Q2b9AAAH
+[22/4/2026, 18:42:59] [INFO ] Device connected: 1qEBTglYkG09ec0wAAAJ
+[22/4/2026, 18:43:00] [INFO ] Device disconnected: 1qEBTglYkG09ec0wAAAJ
+[22/4/2026, 18:43:00] [INFO ] Device connected: zPA21_BpDarzYbylAAAL
+[22/4/2026, 18:43:00] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 18:43:00] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 18:43:02] [INFO ] Device disconnected: zPA21_BpDarzYbylAAAL
+[22/4/2026, 18:43:02] [INFO ] Device connected: nfSy5wMplQ-7A5keAAAN
+[22/4/2026, 18:43:02] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:43:02] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:43:11] [INFO ] Device disconnected: nfSy5wMplQ-7A5keAAAN
+[22/4/2026, 18:43:11] [INFO ] Device connected: jD1jWWjtQpHnRtHDAAAP
+[22/4/2026, 18:43:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:43:11] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:43:17] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 18:43:17] [INFO ] GET /queue → 304 (8ms)
+[22/4/2026, 18:43:17] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 18:43:17] [INFO ] Device connected: qM28KMr6GsKzTCLIAAAR
+[22/4/2026, 18:43:17] [INFO ] GET /history → 200 (1ms)
+[22/4/2026, 18:43:23] [INFO ] Device connected: kJBl4JDjvvkGaQRhAAAT
+[22/4/2026, 18:43:23] [INFO ] Device disconnected: jD1jWWjtQpHnRtHDAAAP
+[22/4/2026, 18:43:23] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 18:43:23] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:43:25] [INFO ] Device disconnected: kJBl4JDjvvkGaQRhAAAT
+[22/4/2026, 18:43:25] [INFO ] Device connected: 5G7mekQik4S22GBDAAAV
+[22/4/2026, 18:43:25] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:43:25] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 18:43:33] [INFO ] Device disconnected: TX_KuL6cNj57Q2b9AAAH
+[22/4/2026, 18:43:36] [INFO ] Device disconnected: 5G7mekQik4S22GBDAAAV
+[22/4/2026, 18:44:02] [INFO ] Device disconnected: qM28KMr6GsKzTCLIAAAR
+[22/4/2026, 18:44:02] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 18:44:03] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 18:44:03] [INFO ] Device connected: qxsTK81E9o7MYX8HAAAX
+[22/4/2026, 18:44:03] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 18:44:03] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:44:10] [INFO ] Device disconnected: qxsTK81E9o7MYX8HAAAX
+[22/4/2026, 18:44:10] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 18:44:10] [INFO ] GET /queue → 304 (10ms)
+[22/4/2026, 18:44:10] [INFO ] Device connected: wn27YRnpBEGrD3aFAAAZ
+[22/4/2026, 18:44:10] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 18:44:10] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 18:44:10] [INFO ] Device connected: 1TqBFyelomItqc01AAAb
+[22/4/2026, 18:44:10] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:44:10] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 18:44:11] [INFO ] Device disconnected: 1TqBFyelomItqc01AAAb
+[22/4/2026, 18:44:11] [INFO ] Device connected: 6QYxof6HalbDo9KLAAAd
+[22/4/2026, 18:44:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:44:11] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:44:13] [INFO ] Device disconnected: 6QYxof6HalbDo9KLAAAd
+[22/4/2026, 18:44:13] [INFO ] Device connected: SJ4CuCnC1bUPPTwSAAAf
+[22/4/2026, 18:44:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:44:13] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:44:16] [INFO ] Device connected: vfxM8mPIxejwEIENAAAh
+[22/4/2026, 18:44:18] [INFO ] Device disconnected: wn27YRnpBEGrD3aFAAAZ
+[22/4/2026, 18:44:23] [INFO ] Device disconnected: SJ4CuCnC1bUPPTwSAAAf
+[22/4/2026, 18:44:23] [INFO ] Device connected: nydIOszuXZpECYrpAAAj
+[22/4/2026, 18:44:23] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:44:23] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 18:44:23] [INFO ] Device connected: jUUrmiZvml8fnoM2AAAl
+[22/4/2026, 18:44:23] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 18:44:23] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:44:23] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:44:23] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 18:44:27] [INFO ] Device disconnected: nydIOszuXZpECYrpAAAj
+[22/4/2026, 18:44:27] [INFO ] Device connected: DLdsWlXt2rC4DkiVAAAn
+[22/4/2026, 18:44:27] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 18:44:27] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:44:28] [INFO ] Device disconnected: DLdsWlXt2rC4DkiVAAAn
+[22/4/2026, 18:44:28] [INFO ] Device connected: GfazEGfq7310ENPPAAAp
+[22/4/2026, 18:44:28] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 18:44:28] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:44:29] [INFO ] Device disconnected: vfxM8mPIxejwEIENAAAh
+[22/4/2026, 18:44:49] [INFO ] Device connected: U6htkzJYk-y_mCJrAAAr
+[22/4/2026, 18:44:51] [INFO ] Device disconnected: U6htkzJYk-y_mCJrAAAr
+[22/4/2026, 18:44:51] [INFO ] Device connected: wgsK5SMCvRJFV4pcAAAt
+[22/4/2026, 18:44:54] [INFO ] Device disconnected: wgsK5SMCvRJFV4pcAAAt
+[22/4/2026, 18:45:04] [INFO ] POST / → 200 (181ms)
+[22/4/2026, 18:45:04] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 18:45:11] [INFO ] POST /login → 401 (3ms)
+[22/4/2026, 18:45:11] [INFO ] Device disconnected: GfazEGfq7310ENPPAAAp
+[22/4/2026, 18:45:11] [INFO ] Device connected: QzOgxjmdBYV9HapNAAAv
+[22/4/2026, 18:45:13] [INFO ] POST /login → 200 (176ms)
+[22/4/2026, 18:45:13] [INFO ] GET / → 304 (5ms)
+[22/4/2026, 18:45:13] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 18:45:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:45:13] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 18:45:48] [INFO ] POST / → 200 (204ms)
+[22/4/2026, 18:45:48] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 18:46:04] [INFO ] POST / → 200 (193ms)
+[22/4/2026, 18:46:04] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 18:46:06] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 18:46:16] [INFO ] DELETE /4 → 200 (39ms)
+[22/4/2026, 18:46:16] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 18:46:16] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:46:16] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 18:46:16] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 18:46:16] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 18:46:16] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:46:16] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:46:16] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 18:46:16] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 18:46:16] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 18:46:16] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:46:20] [INFO ] DELETE /3 → 200 (8ms)
+[22/4/2026, 18:46:20] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 18:46:20] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:46:20] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 18:46:20] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 18:46:20] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 18:46:20] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:46:20] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 18:46:20] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 18:46:20] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 18:46:20] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:46:20] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:46:23] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 18:47:01] [INFO ] POST / → 200 (186ms)
+[22/4/2026, 18:47:01] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 18:47:10] [INFO ] Device disconnected: QzOgxjmdBYV9HapNAAAv
+[22/4/2026, 18:47:10] [INFO ] Device connected: VpDorKOBvkFrr-23AAAx
+[22/4/2026, 18:47:21] [INFO ] POST /login → 401 (172ms)
+[22/4/2026, 18:47:21] [INFO ] Device disconnected: VpDorKOBvkFrr-23AAAx
+[22/4/2026, 18:47:21] [INFO ] Device connected: 0X0GncBXNFUnNnnpAAAz
+[22/4/2026, 18:47:35] [INFO ] POST /login → 200 (164ms)
+[22/4/2026, 18:47:36] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:47:36] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:48:13] [INFO ] ARRIVED: MH1234 | shipment: BS1234 | driver: Hamza | dock: DOCK-01 | by: hamza
+[22/4/2026, 18:48:13] [INFO ] POST /register → 200 (230ms)
+[22/4/2026, 18:48:13] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 18:48:13] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 18:48:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:48:13] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 18:48:13] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 18:48:13] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 18:48:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:48:13] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 18:48:13] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 18:48:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:48:13] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 18:48:13] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 18:48:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 18:48:13] [INFO ] GET /history → 200 (1ms)
+[22/4/2026, 18:48:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:48:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:48:13] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 18:48:13] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:48:21] [INFO ] Device disconnected: jUUrmiZvml8fnoM2AAAl
+[22/4/2026, 18:48:37] [INFO ] Device connected: DNU2WWx0QPisPWYfAAA1
+[22/4/2026, 18:48:59] [INFO ] GET /supervisors → 200 (4ms)
+[22/4/2026, 18:49:09] [INFO ] GET /supervisors → 304 (2ms)
+[22/4/2026, 18:49:17] [INFO ] GET /supervisors → 304 (5ms)
+[22/4/2026, 18:49:22] [INFO ] PUT /6/dock → 200 (104ms)
+[22/4/2026, 18:49:22] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 18:49:22] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:49:22] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:49:22] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:49:23] [INFO ] GET /supervisors → 200 (3ms)
+[22/4/2026, 18:49:27] [INFO ] PUT /4/dock → 200 (112ms)
+[22/4/2026, 18:49:27] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 18:49:27] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:49:27] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 18:49:27] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 18:50:09] [INFO ] GET /supervisors → 200 (3ms)
+[22/4/2026, 18:50:37] [INFO ] Device disconnected: 0X0GncBXNFUnNnnpAAAz
+[22/4/2026, 18:53:26] [INFO ] GET /supervisors → 304 (4ms)
+[22/4/2026, 18:53:35] [INFO ] PUT /4/dock → 200 (44ms)
+[22/4/2026, 18:53:36] [INFO ] PUT /6/dock → 200 (112ms)
+[22/4/2026, 18:53:36] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 18:53:36] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:53:36] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:53:36] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:53:40] [INFO ] GET /supervisors → 200 (3ms)
+[22/4/2026, 18:53:44] [INFO ] GET /supervisors → 304 (2ms)
+[22/4/2026, 18:53:51] [INFO ] PUT /4/dock → 200 (40ms)
+[22/4/2026, 18:53:51] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 18:53:51] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 18:53:51] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 18:53:51] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 18:53:53] [INFO ] GET /supervisors → 200 (3ms)
+[22/4/2026, 18:58:04] [INFO ] GET /history → 200 (4ms)
+[22/4/2026, 18:58:08] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 18:58:32] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 18:58:44] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 18:58:46] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 18:58:48] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 18:59:52] [INFO ] Device connected: vcHWAl8RuWaEu-0gAAA5
+[22/4/2026, 18:59:52] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 18:59:52] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 18:59:53] [INFO ] Device disconnected: vcHWAl8RuWaEu-0gAAA5
+[22/4/2026, 18:59:53] [INFO ] Device connected: 6ueaGZBG_lQJ5suEAAA7
+[22/4/2026, 18:59:53] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 18:59:53] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 19:00:43] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:00:43] [INFO ] GET /history → 200 (4ms)
+[22/4/2026, 19:00:52] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:00:52] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:00:52] [INFO ] GET /history → 304 (4ms)
+[22/4/2026, 19:01:05] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:01:05] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:01:05] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 19:01:05] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 19:01:10] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:01:14] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:01:16] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 19:01:17] [INFO ] GET / → 304 (5ms)
+[22/4/2026, 19:01:19] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:01:20] [INFO ] GET /history → 304 (4ms)
+[22/4/2026, 19:01:21] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:01:24] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:01:25] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:01:27] [INFO ] GET /history → 304 (4ms)
+[22/4/2026, 19:01:52] [INFO ] Device disconnected: 6ueaGZBG_lQJ5suEAAA7
+[22/4/2026, 19:06:40] [INFO ] ========================================
+[22/4/2026, 19:06:40] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 19:06:40] [INFO ] ========================================
+[22/4/2026, 19:06:40] [INFO ] 
+   Open on ALL devices:
+   http://172.16.1.26:3001
+[22/4/2026, 19:06:40] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 19:06:40] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 19:06:40] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 19:06:40] [INFO ] ========================================
+
+[22/4/2026, 19:06:40] [INFO ] Device connected: p19KVBmnBCUA18I0AAAB
+[22/4/2026, 19:06:42] [INFO ] Device connected: JbbuDC2LwAGTrOfWAAAD
+[22/4/2026, 19:06:49] [INFO ] Device disconnected: p19KVBmnBCUA18I0AAAB
+[22/4/2026, 19:06:49] [INFO ] Device connected: B8zo6UOc858Y0rJIAAAF
+[22/4/2026, 19:06:49] [INFO ] GET / → 304 (13ms)
+[22/4/2026, 19:06:49] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 19:06:49] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 19:06:53] [INFO ] Device disconnected: JbbuDC2LwAGTrOfWAAAD
+[22/4/2026, 19:06:53] [INFO ] Device connected: lY3n7JJuj9r47BPXAAAH
+[22/4/2026, 19:06:53] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:06:53] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:06:53] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:06:53] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 19:07:07] [INFO ] Device disconnected: B8zo6UOc858Y0rJIAAAF
+[22/4/2026, 19:07:07] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:07:07] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 19:07:07] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:07:07] [INFO ] Device connected: mrQAx86-PSy-o0djAAAJ
+[22/4/2026, 19:07:11] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 19:07:11] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:07:12] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:07:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:07:12] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:07:14] [INFO ] GET /active → 304 (6ms)
+[22/4/2026, 19:07:14] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 19:07:17] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:07:17] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 19:07:17] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:07:17] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:07:17] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 19:07:19] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:07:19] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:07:19] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 19:07:19] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:07:27] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:07:30] [INFO ] GET /api/users → 500 (5ms)
+[22/4/2026, 19:07:31] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 19:07:37] [INFO ] DELETED: MH1234 | by: Administrator
+[22/4/2026, 19:07:37] [INFO ] DELETE /1 → 200 (70ms)
+[22/4/2026, 19:07:37] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 19:07:37] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:07:37] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 19:07:37] [INFO ] GET /history → 200 (1ms)
+[22/4/2026, 19:07:37] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 19:07:37] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 19:07:37] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 19:07:46] [INFO ] GET / → 403 (4ms)
+[22/4/2026, 19:08:28] [INFO ] POST /api/users → 500 (238ms)
+[22/4/2026, 19:08:36] [INFO ] POST /api/users → 500 (215ms)
+[22/4/2026, 19:08:45] [INFO ] POST /api/users → 500 (209ms)
+[22/4/2026, 19:08:46] [INFO ] POST /api/users → 500 (212ms)
+[22/4/2026, 19:08:47] [INFO ] POST /api/users → 500 (167ms)
+[22/4/2026, 19:08:48] [INFO ] POST /api/users → 500 (170ms)
+[22/4/2026, 19:08:52] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 19:09:03] [INFO ] GET /supervisors → 304 (3ms)
+[22/4/2026, 19:09:06] [INFO ] Device connected: 2eFGkf9awDAwG_k0AAAL
+[22/4/2026, 19:09:09] [INFO ] GET / → 304 (5ms)
+[22/4/2026, 19:09:20] [INFO ] DELETE /1 → 403 (3ms)
+[22/4/2026, 19:09:26] [INFO ] DELETE /1 → 403 (3ms)
+[22/4/2026, 19:09:43] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 19:09:44] [INFO ] GET /api/users → 500 (3ms)
+[22/4/2026, 19:09:47] [INFO ] GET / → 304 (5ms)
+[22/4/2026, 19:09:47] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 19:09:47] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:09:47] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 19:09:48] [INFO ] GET /api/users → 500 (3ms)
+[22/4/2026, 19:09:50] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:09:50] [INFO ] POST /login → 401 (184ms)
+[22/4/2026, 19:09:51] [INFO ] Device disconnected: 2eFGkf9awDAwG_k0AAAL
+[22/4/2026, 19:09:51] [INFO ] Device connected: SCV69TCdYTB84kv3AAAN
+[22/4/2026, 19:09:51] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:09:52] [INFO ] GET /api/users → 500 (3ms)
+[22/4/2026, 19:09:52] [INFO ] Device disconnected: SCV69TCdYTB84kv3AAAN
+[22/4/2026, 19:09:52] [INFO ] Device connected: cy2evjvJ0gfR_KjIAAAP
+[22/4/2026, 19:09:53] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 19:09:54] [INFO ] GET /api/users → 500 (3ms)
+[22/4/2026, 19:09:57] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 19:09:57] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 19:09:57] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:09:57] [INFO ] GET /history → 304 (5ms)
+[22/4/2026, 19:09:57] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:09:57] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:09:57] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 19:09:58] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:09:58] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:10:00] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:10:00] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:10:02] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:10:02] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:10:02] [INFO ] GET /history → 304 (4ms)
+[22/4/2026, 19:10:02] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:10:02] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:10:02] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:10:02] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:10:03] [INFO ] GET /api/users → 500 (4ms)
+[22/4/2026, 19:10:17] [INFO ] POST /api/users → 500 (200ms)
+[22/4/2026, 19:10:20] [INFO ] POST /api/users → 500 (170ms)
+[22/4/2026, 19:11:43] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:11:44] [INFO ] GET / → 403 (3ms)
+[22/4/2026, 19:12:18] [INFO ] Device disconnected: cy2evjvJ0gfR_KjIAAAP
+[22/4/2026, 19:12:45] [INFO ] Device connected: A6HoMgw5YmWY4joxAAAR
+[22/4/2026, 19:14:34] [INFO ] Device disconnected: A6HoMgw5YmWY4joxAAAR
+[22/4/2026, 19:15:24] [INFO ] Device disconnected: lY3n7JJuj9r47BPXAAAH
+[22/4/2026, 19:15:45] [INFO ] Device connected: llRDnns87r6x_I-4AAAT
+[22/4/2026, 19:16:00] [INFO ] Device connected: Q1IHZak9osjEjKCyAAAV
+[22/4/2026, 19:16:30] [INFO ] Device disconnected: llRDnns87r6x_I-4AAAT
+[22/4/2026, 19:17:24] [INFO ] ========================================
+[22/4/2026, 19:17:24] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 19:17:24] [INFO ] ========================================
+[22/4/2026, 19:17:24] [INFO ] 
+   Open on ALL devices:
+   http://172.16.1.26:3001
+[22/4/2026, 19:17:24] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 19:17:24] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 19:17:24] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 19:17:24] [INFO ] ========================================
+
+[22/4/2026, 19:17:24] [INFO ] Device connected: hm56Wb6MHROGogNbAAAB
+[22/4/2026, 19:17:27] [INFO ] Device connected: SeWT74-NWLlxoeOjAAAD
+[22/4/2026, 19:17:32] [INFO ] Device disconnected: hm56Wb6MHROGogNbAAAB
+[22/4/2026, 19:17:33] [INFO ] Device connected: _vS0XJyJWgQsK-6wAAAG
+[22/4/2026, 19:17:33] [INFO ] GET / → 304 (18ms)
+[22/4/2026, 19:17:33] [INFO ] GET /queue → 304 (5ms)
+[22/4/2026, 19:17:33] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:17:38] [INFO ] Device disconnected: _vS0XJyJWgQsK-6wAAAG
+[22/4/2026, 19:17:38] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:17:38] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:17:38] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:17:38] [INFO ] Device connected: jZn50_QqkW4ZDQK4AAAI
+[22/4/2026, 19:17:41] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:17:41] [INFO ] GET /history → 304 (4ms)
+[22/4/2026, 19:18:41] [INFO ] ARRIVED: KA05LP0074 | shipment: S-F-0001 | driver: RAMBABU | dock: DOCK-01 | by: Administrator
+[22/4/2026, 19:18:41] [INFO ] POST /register → 200 (53ms)
+[22/4/2026, 19:18:41] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 19:18:41] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:18:41] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 19:18:41] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 19:18:41] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:18:41] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:18:41] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:18:41] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:18:41] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:18:41] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:18:41] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 19:18:41] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:18:41] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 19:18:41] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:18:42] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:18:42] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:18:59] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:19:01] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 19:19:24] [INFO ] Device disconnected: SeWT74-NWLlxoeOjAAAD
+[22/4/2026, 19:19:24] [INFO ] Device connected: XJpx_cDE0VLu1b36AAAK
+[22/4/2026, 19:19:25] [INFO ] Device disconnected: XJpx_cDE0VLu1b36AAAK
+[22/4/2026, 19:19:25] [INFO ] Device connected: wSmyXy835BlHghzFAAAM
+[22/4/2026, 19:19:25] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 19:19:25] [INFO ] GET /queue → 200 (1ms)
+[22/4/2026, 19:19:25] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 19:19:27] [INFO ] Device disconnected: wSmyXy835BlHghzFAAAM
+[22/4/2026, 19:19:27] [INFO ] GET /queue → 304 (4ms)
+[22/4/2026, 19:19:27] [INFO ] GET / → 304 (6ms)
+[22/4/2026, 19:19:27] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:19:27] [INFO ] Device connected: g4pM-356HO-R5cfDAAAO
+[22/4/2026, 19:20:03] [INFO ] POST /login → 401 (3ms)
+[22/4/2026, 19:20:03] [INFO ] Device disconnected: g4pM-356HO-R5cfDAAAO
+[22/4/2026, 19:20:03] [INFO ] Device connected: Auq1r9k_VOABwzX1AAAQ
+[22/4/2026, 19:20:17] [INFO ] PUT /2 → 200 (222ms)
+[22/4/2026, 19:20:17] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 19:20:25] [INFO ] POST /login → 401 (2ms)
+[22/4/2026, 19:20:25] [INFO ] Device disconnected: Auq1r9k_VOABwzX1AAAQ
+[22/4/2026, 19:20:25] [INFO ] Device connected: mmuxZoa5gX01Z3MqAAAS
+[22/4/2026, 19:20:38] [INFO ] POST /login → 401 (202ms)
+[22/4/2026, 19:20:39] [INFO ] Device disconnected: mmuxZoa5gX01Z3MqAAAS
+[22/4/2026, 19:20:39] [INFO ] Device connected: uVP7XaR1ng7_hQaqAAAU
+[22/4/2026, 19:20:48] [INFO ] PUT /2 → 200 (227ms)
+[22/4/2026, 19:20:48] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 19:21:09] [INFO ] POST / → 400 (162ms)
+[22/4/2026, 19:21:19] [INFO ] POST / → 400 (172ms)
+[22/4/2026, 19:21:23] [INFO ] Device disconnected: uVP7XaR1ng7_hQaqAAAU
+[22/4/2026, 19:21:26] [INFO ] POST / → 400 (169ms)
+[22/4/2026, 19:21:31] [INFO ] POST / → 400 (193ms)
+[22/4/2026, 19:21:39] [INFO ] POST / → 400 (171ms)
+[22/4/2026, 19:21:41] [INFO ] POST / → 400 (188ms)
+[22/4/2026, 19:23:33] [INFO ] Device connected: T1qDSw6R9j95do7UAAAW
+[22/4/2026, 19:23:55] [INFO ] Device disconnected: T1qDSw6R9j95do7UAAAW
+[22/4/2026, 19:32:27] [INFO ] ========================================
+[22/4/2026, 19:32:27] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 19:32:27] [INFO ] ========================================
+[22/4/2026, 19:32:27] [INFO ] 
+   Open on ALL devices:
+   http://172.16.1.26:3001
+[22/4/2026, 19:32:27] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 19:32:27] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 19:32:27] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 19:32:27] [INFO ] ========================================
+
+[22/4/2026, 19:32:32] [INFO ] Device connected: 56Rt6kTWSXjXdZ4pAAAB
+[22/4/2026, 19:32:52] [INFO ] Device disconnected: 56Rt6kTWSXjXdZ4pAAAB
+[22/4/2026, 19:32:53] [INFO ] Device connected: rjxLRWxLVEHtbLeDAAAD
+[22/4/2026, 19:32:53] [INFO ] GET / → 304 (15ms)
+[22/4/2026, 19:32:53] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:32:53] [INFO ] GET /active → 200 (5ms)
+[22/4/2026, 19:32:59] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:32:59] [INFO ] GET /history → 200 (4ms)
+[22/4/2026, 19:33:25] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:33:25] [INFO ] GET /history → 304 (4ms)
+[22/4/2026, 19:33:57] [INFO ] ARRIVED: KA05LP0071 | shipment: S-F-0002 | driver: JATIN | dock: DOCK-02 | by: Administrator
+[22/4/2026, 19:33:57] [INFO ] POST /register → 200 (42ms)
+[22/4/2026, 19:33:57] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 19:33:57] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 19:33:57] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 19:33:57] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 19:33:57] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:33:57] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:33:57] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:33:57] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 19:33:57] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:33:57] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:33:59] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:33:59] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:34:17] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:34:17] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:34:48] [INFO ] ARRIVED: KA05LP0072 | shipment: S-F-00012 | driver: RISHU | dock: QUEUE | by: Administrator
+[22/4/2026, 19:34:48] [INFO ] POST /register → 200 (58ms)
+[22/4/2026, 19:34:48] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:34:48] [INFO ] GET /queue → 200 (3ms)
+[22/4/2026, 19:34:48] [INFO ] GET /active → 200 (4ms)
+[22/4/2026, 19:34:48] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 19:34:48] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:35:00] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 19:35:00] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:35:11] [INFO ] GET /active → 304 (6ms)
+[22/4/2026, 19:35:11] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:35:13] [INFO ] GET / → 304 (5ms)
+[22/4/2026, 19:35:13] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 19:35:13] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:35:14] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:35:14] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:35:14] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:35:15] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:35:17] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 19:35:29] [INFO ] PUT /2 → 200 (229ms)
+[22/4/2026, 19:35:29] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 19:36:11] [INFO ] Device connected: GzDAluSdl0BrgbDDAAAF
+[22/4/2026, 19:36:13] [INFO ] Device disconnected: GzDAluSdl0BrgbDDAAAF
+[22/4/2026, 19:36:13] [INFO ] Device connected: wFKLDagwnZtCoFJSAAAH
+[22/4/2026, 19:36:20] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:36:22] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:36:44] [INFO ] GET /users → 200 (82ms)
+[22/4/2026, 19:37:19] [INFO ] POST /login → 200 (169ms)
+[22/4/2026, 19:37:19] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 19:37:19] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 19:37:19] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 19:38:16] [INFO ] GATE OPEN: KA05LP0074 | dock: 1 | by: puneet
+[22/4/2026, 19:38:16] [INFO ] POST /2/start-unloading → 200 (65ms)
+[22/4/2026, 19:38:16] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 19:38:16] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 19:38:16] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 19:38:16] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:38:16] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 19:38:16] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:38:16] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 19:38:16] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 19:38:16] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 19:38:16] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:38:16] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 19:38:16] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:38:45] [INFO ] OFFLOADED: KA05LP0074 | by: puneet
+[22/4/2026, 19:38:45] [INFO ] POST /2/offloaded → 200 (29ms)
+[22/4/2026, 19:38:45] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 19:38:45] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 19:38:45] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 19:38:45] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:38:45] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 19:38:45] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:38:45] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:38:45] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:38:45] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:38:45] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:38:45] [INFO ] GET /queue → 200 (3ms)
+[22/4/2026, 19:38:45] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 19:38:45] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:38:45] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:38:45] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:38:45] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 19:38:45] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:38:45] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:38:45] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:38:45] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:38:45] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:40:40] [INFO ] GATE OPEN: KA05LP0072 | dock: 1 | by: puneet
+[22/4/2026, 19:40:40] [INFO ] POST /4/start-unloading → 200 (106ms)
+[22/4/2026, 19:40:40] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 19:40:40] [INFO ] GET /active → 200 (4ms)
+[22/4/2026, 19:40:40] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 19:40:40] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:40:40] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:40:40] [INFO ] GET /history → 304 (5ms)
+[22/4/2026, 19:40:40] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 19:40:40] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:40:40] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 19:40:40] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:40:40] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:40:40] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:40:53] [INFO ] OFFLOADED: KA05LP0072 | by: puneet
+[22/4/2026, 19:40:53] [INFO ] POST /4/offloaded → 200 (26ms)
+[22/4/2026, 19:40:53] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 19:40:53] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 19:40:53] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 19:40:53] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:40:53] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:40:53] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 19:40:53] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 19:40:53] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:40:53] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 19:40:53] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 19:40:53] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:40:53] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:41:06] [INFO ] Device disconnected: wFKLDagwnZtCoFJSAAAH
+[22/4/2026, 19:41:06] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:41:06] [INFO ] Device connected: BnnkOdrZ9p7OOjnbAAAJ
+[22/4/2026, 19:41:06] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 19:41:06] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:41:08] [INFO ] Device disconnected: BnnkOdrZ9p7OOjnbAAAJ
+[22/4/2026, 19:41:08] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:41:08] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:41:08] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 19:41:08] [INFO ] Device connected: SYnFKgPcr5Z8KOmrAAAL
+[22/4/2026, 19:41:50] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:41:50] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:41:50] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 19:41:51] [INFO ] GET /active → 304 (5ms)
+[22/4/2026, 19:41:51] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 19:41:53] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:41:53] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:41:53] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:41:54] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:41:54] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:41:54] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:41:55] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:41:55] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 19:42:27] [INFO ] UNASSIGNED: KA05LP0071 → QUEUE | by: Administrator
+[22/4/2026, 19:42:27] [INFO ] POST /3/unassign → 200 (19ms)
+[22/4/2026, 19:42:27] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 19:42:27] [INFO ] GET /queue → 200 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET /history → 200 (1ms)
+[22/4/2026, 19:42:27] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 19:42:27] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:42:27] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:42:27] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:42:27] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:42:27] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 19:42:27] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:42:27] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 19:42:33] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 19:42:33] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 19:42:36] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 19:42:36] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 19:45:02] [INFO ] Device disconnected: SYnFKgPcr5Z8KOmrAAAL
+[22/4/2026, 19:45:02] [INFO ] Device disconnected: rjxLRWxLVEHtbLeDAAAD
+[22/4/2026, 20:11:31] [INFO ] Device connected: H6EwXPBN_suREULPAAAN
+[22/4/2026, 20:12:12] [INFO ] Device disconnected: H6EwXPBN_suREULPAAAN
+[22/4/2026, 20:15:18] [INFO ] ========================================
+[22/4/2026, 20:15:18] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 20:15:18] [INFO ] ========================================
+[22/4/2026, 20:15:18] [INFO ] 
+   Open on ALL devices:
+   http://172.20.10.4:3001
+[22/4/2026, 20:15:18] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 20:15:18] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 20:15:18] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 20:15:18] [INFO ] ========================================
+
+[22/4/2026, 20:17:52] [INFO ] ========================================
+[22/4/2026, 20:17:52] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 20:17:52] [INFO ] ========================================
+[22/4/2026, 20:17:52] [INFO ] 
+   Open on ALL devices:
+   http://172.20.10.4:3001
+[22/4/2026, 20:17:52] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 20:17:52] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 20:17:52] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 20:17:52] [INFO ] ========================================
+
+[22/4/2026, 20:18:02] [INFO ] Device connected: wr5fO5Q5G7LYdzZkAAAB
+[22/4/2026, 20:18:13] [INFO ] POST /login → 200 (192ms)
+[22/4/2026, 20:18:13] [INFO ] GET / → 200 (9ms)
+[22/4/2026, 20:18:13] [INFO ] GET /queue → 200 (4ms)
+[22/4/2026, 20:18:13] [INFO ] GET /active → 200 (5ms)
+[22/4/2026, 20:18:30] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 20:18:30] [INFO ] GET /history → 200 (4ms)
+[22/4/2026, 20:18:33] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 20:18:33] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 20:18:33] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:18:38] [INFO ] GET / → 304 (5ms)
+[22/4/2026, 20:18:38] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:18:38] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:18:43] [INFO ] GET /history → 200 (5ms)
+[22/4/2026, 20:18:43] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:18:50] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:18:52] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 20:19:09] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:19:14] [INFO ] GET /active → 304 (6ms)
+[22/4/2026, 20:19:14] [INFO ] GET /history → 304 (5ms)
+[22/4/2026, 20:19:25] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:19:28] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:19:31] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:19:31] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:19:35] [INFO ] Device disconnected: wr5fO5Q5G7LYdzZkAAAB
+[22/4/2026, 20:19:35] [INFO ] Device connected: Y3xLEdpJMauVY9kLAAAD
+[22/4/2026, 20:19:35] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:19:35] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:19:35] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:19:39] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:19:39] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:19:46] [INFO ] DEPARTED: KA05LP0072 | by: Administrator
+[22/4/2026, 20:19:46] [INFO ] POST /4/depart → 200 (51ms)
+[22/4/2026, 20:19:46] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:19:46] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:19:46] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 20:19:46] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 20:19:46] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:19:46] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:19:46] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:19:48] [INFO ] DEPARTED: KA05LP0074 | by: Administrator
+[22/4/2026, 20:19:48] [INFO ] POST /2/depart → 200 (159ms)
+[22/4/2026, 20:19:48] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 20:19:48] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:19:48] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:19:48] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 20:19:48] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:19:48] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:19:48] [INFO ] GET /active → 304 (8ms)
+[22/4/2026, 20:19:53] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:19:53] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:19:53] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:19:54] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 20:19:54] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:19:54] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:20:01] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 20:20:01] [INFO ] GET /history → 200 (5ms)
+[22/4/2026, 20:20:07] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:20:07] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:20:32] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:20:32] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:20:32] [INFO ] GET /history → 304 (4ms)
+[22/4/2026, 20:20:33] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:20:33] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:20:33] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:20:42] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:20:42] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:20:49] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:20:50] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:21:05] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:21:05] [INFO ] GET /history → 304 (4ms)
+[22/4/2026, 20:21:10] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 20:21:10] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:21:10] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:21:10] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 20:21:13] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:21:14] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 20:21:18] [INFO ] DELETED: KA05LP0071 | by: Administrator
+[22/4/2026, 20:21:18] [INFO ] DELETE /3 → 200 (86ms)
+[22/4/2026, 20:21:18] [INFO ] GET / → 304 (6ms)
+[22/4/2026, 20:21:18] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:21:18] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:21:18] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:21:18] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:21:18] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:21:18] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:21:18] [INFO ] GET /queue → 200 (3ms)
+[22/4/2026, 20:21:18] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 20:21:18] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 20:21:18] [INFO ] GET /history → 200 (4ms)
+[22/4/2026, 20:21:18] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 20:21:18] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:21:18] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:21:18] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET /history → 304 (4ms)
+[22/4/2026, 20:21:18] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET /queue → 304 (4ms)
+[22/4/2026, 20:21:18] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:21:18] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:21:18] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:21:18] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:21:18] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:21:18] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:21:29] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:21:29] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:21:29] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 20:21:29] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:21:29] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:21:32] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:21:34] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:21:34] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] ARRIVED: KA05LP0074 | shipment: S-F-0001 | driver: DRIVER-1 | dock: DOCK-01 | by: Administrator
+[22/4/2026, 20:22:04] [INFO ] POST /register → 200 (67ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 200 (1ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 20:22:04] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:04] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:22:05] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:05] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 20:22:05] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:05] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:22:05] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:22:05] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:05] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:22:05] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:05] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:22:05] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:05] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:05] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:22:05] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:22:07] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:22:07] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:25:16] [INFO ] Device disconnected: Y3xLEdpJMauVY9kLAAAD
+[22/4/2026, 20:25:16] [INFO ] Device connected: 95n4w5ook1jvOgydAAAF
+[22/4/2026, 20:25:16] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:25:16] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:25:16] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:25:27] [INFO ] Device disconnected: 95n4w5ook1jvOgydAAAF
+[22/4/2026, 20:25:27] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 20:25:27] [INFO ] GET /queue → 200 (4ms)
+[22/4/2026, 20:25:27] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 20:25:27] [INFO ] Device connected: Bd5joIYboSGohpXYAAAH
+[22/4/2026, 20:25:30] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:25:30] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:26:16] [INFO ] ARRIVED: KA05LP0076 | shipment: S-F0098 | driver: ravi | dock: DOCK-02 | by: Administrator
+[22/4/2026, 20:26:16] [INFO ] POST /register → 200 (30ms)
+[22/4/2026, 20:26:16] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 20:26:16] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:26:16] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 20:26:16] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 20:26:16] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:26:16] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:26:16] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:26:16] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:26:16] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:26:16] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:26:26] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:26:26] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:26:59] [INFO ] ARRIVED: KA06LP00987 | shipment: S-F-098754 | driver: KANJX | dock: QUEUE | by: Administrator
+[22/4/2026, 20:26:59] [INFO ] POST /register → 200 (134ms)
+[22/4/2026, 20:26:59] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:26:59] [INFO ] GET /queue → 200 (2ms)
+[22/4/2026, 20:26:59] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 20:26:59] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 20:26:59] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:31:35] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:31:53] [INFO ] POST /login → 200 (160ms)
+[22/4/2026, 20:31:53] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:31:53] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:31:53] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:35:09] [INFO ] GATE OPEN: KA05LP0076 | dock: 2 | by: debraj
+[22/4/2026, 20:35:09] [INFO ] POST /6/start-unloading → 200 (63ms)
+[22/4/2026, 20:35:09] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 20:35:09] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 20:35:09] [INFO ] GET /history → 200 (4ms)
+[22/4/2026, 20:35:09] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:35:09] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:35:09] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:35:35] [INFO ] OFFLOADED: KA05LP0076 | by: debraj
+[22/4/2026, 20:35:35] [INFO ] POST /6/offloaded → 200 (28ms)
+[22/4/2026, 20:35:35] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 20:35:35] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 20:35:35] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 20:35:35] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:35:35] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:35:35] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:35:35] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:35:35] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:35:35] [INFO ] GET /history → 304 (4ms)
+[22/4/2026, 20:36:04] [INFO ] GATE OPEN: KA06LP00987 | dock: 2 | by: debraj
+[22/4/2026, 20:36:04] [INFO ] POST /7/start-unloading → 200 (22ms)
+[22/4/2026, 20:36:04] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 20:36:04] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 20:36:04] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 20:36:04] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:36:04] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:36:04] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:36:13] [INFO ] OFFLOADED: KA06LP00987 | by: debraj
+[22/4/2026, 20:36:13] [INFO ] POST /7/offloaded → 200 (56ms)
+[22/4/2026, 20:36:13] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 20:36:13] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 20:36:13] [INFO ] GET /history → 200 (4ms)
+[22/4/2026, 20:36:13] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:36:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:36:13] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:36:54] [INFO ] POST /login → 401 (2ms)
+[22/4/2026, 20:36:54] [INFO ] Device disconnected: Bd5joIYboSGohpXYAAAH
+[22/4/2026, 20:36:54] [INFO ] Device connected: krb0uu4UMYfBiFxGAAAJ
+[22/4/2026, 20:37:15] [INFO ] POST /login → 200 (169ms)
+[22/4/2026, 20:37:15] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:37:15] [INFO ] GET /queue → 200 (2ms)
+[22/4/2026, 20:37:15] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:37:24] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 20:37:24] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:37:38] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:37:46] [INFO ] DELETE /2 → 200 (6ms)
+[22/4/2026, 20:37:46] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 20:37:46] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:37:46] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:37:46] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:37:46] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:37:46] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:37:46] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:37:46] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:37:46] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:37:46] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:37:46] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:37:46] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:37:46] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:37:46] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:37:46] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:37:46] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:37:46] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:37:46] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:38:06] [INFO ] POST / → 400 (4ms)
+[22/4/2026, 20:38:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:38:13] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:38:14] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:38:14] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:38:16] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:38:16] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:38:18] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:38:21] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:38:25] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:39:34] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:39:34] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:40:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:40:13] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:40:15] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:40:15] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:40:18] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:40:19] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:42:14] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:42:16] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 20:42:16] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:42:26] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:42:27] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:42:32] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:42:32] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:42:54] [INFO ] POST /login → 200 (171ms)
+[22/4/2026, 20:42:54] [INFO ] GET /history → 200 (5ms)
+[22/4/2026, 20:42:54] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] DEPARTED: KA06LP00987 | by: hamza
+[22/4/2026, 20:43:11] [INFO ] POST /7/depart → 200 (48ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (4ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:43:11] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (5ms)
+[22/4/2026, 20:43:11] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] DEPARTED: KA05LP0076 | by: hamza
+[22/4/2026, 20:43:12] [INFO ] POST /6/depart → 200 (10ms)
+[22/4/2026, 20:43:12] [INFO ] GET / → 304 (8ms)
+[22/4/2026, 20:43:12] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:43:12] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:43:12] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:43:12] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:12] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:43:13] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:13] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:18] [INFO ] Device disconnected: krb0uu4UMYfBiFxGAAAJ
+[22/4/2026, 20:43:18] [INFO ] Device connected: ZqNaWwiA_O637z4oAAAL
+[22/4/2026, 20:43:18] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:43:18] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:43:29] [INFO ] Device disconnected: ZqNaWwiA_O637z4oAAAL
+[22/4/2026, 20:43:30] [INFO ] Device connected: 3q0PWBjWc5IDMntxAAAN
+[22/4/2026, 20:43:30] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 20:43:30] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 20:44:03] [INFO ] Device disconnected: 3q0PWBjWc5IDMntxAAAN
+[22/4/2026, 20:45:00] [INFO ] Device connected: xhjZ0g73FeCC66JcAAAP
+[22/4/2026, 20:48:22] [INFO ] Device disconnected: xhjZ0g73FeCC66JcAAAP
+[22/4/2026, 20:54:59] [INFO ] Device connected: 0oYA9WozPd2fCFSjAAAR
+[22/4/2026, 20:55:44] [INFO ] POST /login → 200 (67ms)
+[22/4/2026, 20:55:44] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:55:44] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:55:44] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:55:49] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:55:49] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:55:53] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:55:53] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:55:53] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:55:59] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:55:59] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 20:56:03] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 20:56:06] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:56:08] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:56:17] [INFO ] POST / → 400 (1ms)
+[22/4/2026, 20:56:27] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:56:41] [INFO ] POST / → 400 (1ms)
+[22/4/2026, 20:57:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:57:08] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 20:57:17] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:57:17] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 20:57:17] [INFO ] GET /active → 304 (0ms)
+[22/4/2026, 20:57:17] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:57:17] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:57:18] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:57:18] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 20:57:43] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:57:43] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 20:57:44] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:57:44] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:57:45] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:57:45] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 20:57:45] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:57:48] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:57:48] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 20:57:56] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:57:57] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:58:56] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:59:11] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:59:11] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 20:59:15] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:59:16] [INFO ] Device disconnected: 0oYA9WozPd2fCFSjAAAR
+[22/4/2026, 20:59:16] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 20:59:16] [INFO ] GET /queue → 200 (1ms)
+[22/4/2026, 20:59:16] [INFO ] GET /active → 200 (1ms)
+[22/4/2026, 20:59:16] [INFO ] Device connected: gd8bV-yuwbuTlOoyAAAT
+[22/4/2026, 20:59:19] [INFO ] Device disconnected: gd8bV-yuwbuTlOoyAAAT
+[22/4/2026, 20:59:19] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 20:59:19] [INFO ] GET /queue → 200 (1ms)
+[22/4/2026, 20:59:19] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 20:59:19] [INFO ] Device connected: 61JI-cjRACarUtLFAAAV
+[22/4/2026, 20:59:20] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:59:20] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:59:20] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:59:22] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:59:24] [INFO ] Device disconnected: 61JI-cjRACarUtLFAAAV
+[22/4/2026, 20:59:24] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 20:59:24] [INFO ] GET /queue → 200 (1ms)
+[22/4/2026, 20:59:24] [INFO ] GET /active → 200 (1ms)
+[22/4/2026, 20:59:24] [INFO ] Device connected: wJ2by-T27Xa1Xr3NAAAX
+[22/4/2026, 20:59:25] [INFO ] Device disconnected: wJ2by-T27Xa1Xr3NAAAX
+[22/4/2026, 20:59:25] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:59:25] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:59:25] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:59:25] [INFO ] Device connected: XxdxCeYOmtlXREeCAAAZ
+[22/4/2026, 20:59:26] [INFO ] Device disconnected: XxdxCeYOmtlXREeCAAAZ
+[22/4/2026, 20:59:26] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:59:26] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:59:26] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:59:26] [INFO ] Device connected: uFtRmSTMuKsue-wWAAAb
+[22/4/2026, 20:59:27] [INFO ] Device disconnected: uFtRmSTMuKsue-wWAAAb
+[22/4/2026, 20:59:27] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:59:27] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 20:59:27] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:59:27] [INFO ] Device connected: iXG0oHBurmjSP3DQAAAd
+[22/4/2026, 20:59:27] [INFO ] Device disconnected: iXG0oHBurmjSP3DQAAAd
+[22/4/2026, 20:59:27] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:59:27] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:59:27] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:59:27] [INFO ] Device connected: pbasOsyFrT_3eWTQAAAf
+[22/4/2026, 20:59:27] [INFO ] Device disconnected: pbasOsyFrT_3eWTQAAAf
+[22/4/2026, 20:59:27] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:59:28] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:59:28] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:59:28] [INFO ] Device connected: 1kDn7Rkfvc30eAhWAAAh
+[22/4/2026, 20:59:28] [INFO ] Device disconnected: 1kDn7Rkfvc30eAhWAAAh
+[22/4/2026, 20:59:28] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:59:28] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:59:28] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:59:28] [INFO ] Device connected: UTPpNtKvdbzXsFacAAAj
+[22/4/2026, 20:59:28] [INFO ] Device disconnected: UTPpNtKvdbzXsFacAAAj
+[22/4/2026, 20:59:28] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:59:28] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:59:28] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 20:59:28] [INFO ] Device connected: ORivbEYgNx4587iSAAAl
+[22/4/2026, 20:59:40] [INFO ] ========================================
+[22/4/2026, 20:59:40] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 20:59:40] [INFO ] ========================================
+[22/4/2026, 20:59:40] [INFO ] 
+   Open on ALL devices:
+   http://172.20.10.4:3001
+[22/4/2026, 20:59:40] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 20:59:40] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 20:59:40] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 20:59:40] [INFO ] ========================================
+
+[22/4/2026, 20:59:53] [INFO ] Device connected: xsv8YctX6GT0M0l7AAAB
+[22/4/2026, 20:59:54] [INFO ] GET /active → 304 (5ms)
+[22/4/2026, 20:59:54] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 20:59:54] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:59:55] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 20:59:55] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 20:59:55] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 20:59:58] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 21:00:02] [INFO ] PUT /2 → 200 (4ms)
+[22/4/2026, 21:00:02] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 21:00:02] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 21:00:02] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:00:02] [INFO ] GET / → 304 (0ms)
+[22/4/2026, 21:00:02] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 21:00:02] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:00:02] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:00:02] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:00:02] [INFO ] GET /active → 304 (0ms)
+[22/4/2026, 21:00:02] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:00:02] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 21:00:02] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:00:02] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 21:00:07] [INFO ] DELETE /2 → 200 (15ms)
+[22/4/2026, 21:00:07] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 21:00:07] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:00:07] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:00:07] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 21:00:07] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:00:07] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:00:07] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:00:07] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 21:00:07] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:00:07] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:00:07] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 21:00:07] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:00:07] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:00:09] [INFO ] PUT /2 → 200 (7ms)
+[22/4/2026, 21:00:09] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 21:00:09] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:00:09] [INFO ] GET /active → 304 (0ms)
+[22/4/2026, 21:00:09] [INFO ] GET / → 200 (0ms)
+[22/4/2026, 21:00:09] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:00:09] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 21:00:09] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:00:09] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:00:09] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 21:00:09] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:00:09] [INFO ] GET / → 304 (0ms)
+[22/4/2026, 21:00:09] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:00:09] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:00:40] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:00:40] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 21:00:48] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:00:51] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 21:00:51] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:03] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:01:05] [INFO ] PUT /3 → 200 (5ms)
+[22/4/2026, 21:01:05] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET / → 304 (0ms)
+[22/4/2026, 21:01:05] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 21:01:05] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 21:01:05] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:05] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:09] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:09] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 21:01:20] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:21] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:01:23] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:01:24] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:01:24] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:24] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:25] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:25] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:25] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:25] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 21:01:30] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:30] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:30] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:31] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:31] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:32] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:01:32] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:32] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:33] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:01:35] [INFO ] PUT /4 → 200 (8ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (0ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (0ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (0ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (0ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (0ms)
+[22/4/2026, 21:01:35] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /queue → 304 (0ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:35] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:47] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:51] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:01:51] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:01:51] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:01:53] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:02:00] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:02:04] [INFO ] PUT /2 → 200 (2ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (0ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /history → 304 (0ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (37ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:04] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:17] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:02:17] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:02:17] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:02:18] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:08:34] [INFO ] ========================================
+[22/4/2026, 21:08:34] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 21:08:34] [INFO ] ========================================
+[22/4/2026, 21:08:34] [INFO ] 
+   Open on ALL devices:
+   http://172.20.10.4:3001
+[22/4/2026, 21:08:34] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 21:08:34] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 21:08:34] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 21:08:34] [INFO ] ========================================
+
+[22/4/2026, 21:08:36] [INFO ] Device connected: 0ohuA82Aw9RPgqQYAAAB
+[22/4/2026, 21:08:36] [INFO ] GET / → 304 (6ms)
+[22/4/2026, 21:08:36] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 21:08:36] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:08:39] [INFO ] Device disconnected: 0ohuA82Aw9RPgqQYAAAB
+[22/4/2026, 21:08:39] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:08:39] [INFO ] Device connected: EBEG4uS_Yf7G8L_TAAAD
+[22/4/2026, 21:08:39] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:08:39] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:08:42] [INFO ] Device disconnected: EBEG4uS_Yf7G8L_TAAAD
+[22/4/2026, 21:08:42] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:08:42] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:08:42] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:08:42] [INFO ] Device connected: ICOBen5jvmN4sk7LAAAF
+[22/4/2026, 21:08:44] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:08:44] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:08:44] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 21:08:47] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:08:49] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:08:53] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:08:53] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:08:53] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:08:55] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:20:44] [INFO ] ========================================
+[22/4/2026, 21:20:44] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 21:20:44] [INFO ] ========================================
+[22/4/2026, 21:20:44] [INFO ] 
+   Open on ALL devices:
+   http://172.20.10.4:3001
+[22/4/2026, 21:20:44] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 21:20:44] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 21:20:44] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 21:20:44] [INFO ] ========================================
+
+[22/4/2026, 21:20:45] [INFO ] Device connected: IDB2oCoXdI5_3mEpAAAB
+[22/4/2026, 21:20:47] [INFO ] Device disconnected: IDB2oCoXdI5_3mEpAAAB
+[22/4/2026, 21:20:47] [INFO ] Device connected: V3SOZseRvbngEeqxAAAD
+[22/4/2026, 21:20:48] [INFO ] GET / → 304 (13ms)
+[22/4/2026, 21:20:48] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 21:20:48] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:20:50] [INFO ] Device disconnected: V3SOZseRvbngEeqxAAAD
+[22/4/2026, 21:20:50] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 21:20:50] [INFO ] GET /queue → 200 (2ms)
+[22/4/2026, 21:20:50] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 21:20:50] [INFO ] Device connected: cfqlZ9fFeIjxj_pqAAAF
+[22/4/2026, 21:20:52] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:20:52] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 21:20:52] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 21:20:54] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:20:55] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 21:21:03] [INFO ] Device disconnected: cfqlZ9fFeIjxj_pqAAAF
+[22/4/2026, 21:21:03] [INFO ] Device connected: -5BB6GlHFnCGG7xkAAAH
+[22/4/2026, 21:21:03] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:21:03] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:21:03] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 21:21:05] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:21:05] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 21:21:05] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:21:06] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:21:08] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:22:02] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 21:22:02] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 21:22:06] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:22:06] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:22:08] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:22:08] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 21:22:08] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:22:10] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:22:10] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 21:22:41] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:23:12] [INFO ] ========================================
+[22/4/2026, 21:23:12] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 21:23:12] [INFO ] ========================================
+[22/4/2026, 21:23:12] [INFO ] 
+   Open on ALL devices:
+   http://172.20.10.4:3001
+[22/4/2026, 21:23:12] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 21:23:12] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 21:23:12] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 21:23:12] [INFO ] ========================================
+
+[22/4/2026, 21:23:12] [INFO ] Device connected: eGhEu6tYsCgdUPxrAAAB
+[22/4/2026, 21:23:19] [INFO ] Device disconnected: eGhEu6tYsCgdUPxrAAAB
+[22/4/2026, 21:23:19] [INFO ] Device connected: u9Z8kgAh9P-9bkD3AAAD
+[22/4/2026, 21:23:19] [INFO ] GET / → 304 (16ms)
+[22/4/2026, 21:23:19] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 21:23:19] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 21:23:23] [INFO ] GET / → 304 (8ms)
+[22/4/2026, 21:23:23] [INFO ] GET /queue → 304 (4ms)
+[22/4/2026, 21:23:23] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:23:25] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:23:37] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:23:40] [INFO ] GET / → 304 (5ms)
+[22/4/2026, 21:23:53] [INFO ] GET / → 304 (6ms)
+[22/4/2026, 21:23:53] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 21:23:53] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:24:50] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:24:50] [INFO ] GET /history → 304 (4ms)
+[22/4/2026, 21:24:50] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:24:50] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:24:53] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:24:53] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 21:24:53] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:24:54] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:24:54] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 21:26:14] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:26:14] [INFO ] GET /history → 304 (7ms)
+[22/4/2026, 21:26:16] [INFO ] GET / → 304 (5ms)
+[22/4/2026, 21:26:16] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:26:18] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 21:26:18] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 21:26:18] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:26:19] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:26:26] [INFO ] Device disconnected: u9Z8kgAh9P-9bkD3AAAD
+[22/4/2026, 21:26:26] [INFO ] Device connected: kdXVEGFUDAFGP3MfAAAF
+[22/4/2026, 21:26:26] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 21:26:26] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 21:26:26] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:26:30] [INFO ] Device disconnected: kdXVEGFUDAFGP3MfAAAF
+[22/4/2026, 21:26:30] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:26:30] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 21:26:30] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:26:30] [INFO ] Device connected: _9LUkbBEtnlPxuDIAAAH
+[22/4/2026, 21:26:45] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:26:48] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 21:26:49] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 21:26:51] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:26:52] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:26:53] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:27:10] [INFO ] DOCK OVERRIDE: KA05LP0074 → DOCK-03 | by: Administrator
+[22/4/2026, 21:27:10] [INFO ] POST /5/assign-dock → 200 (46ms)
+[22/4/2026, 21:27:10] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 21:27:10] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:27:10] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 21:27:10] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 21:27:10] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 21:27:10] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:27:10] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:27:10] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:27:10] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:27:16] [INFO ] GET / → 304 (8ms)
+[22/4/2026, 21:27:19] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:27:22] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:34:05] [INFO ] POST /login → 200 (192ms)
+[22/4/2026, 21:34:05] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 21:34:05] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 21:34:05] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:34:11] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:34:11] [INFO ] GET /history → 200 (4ms)
+[22/4/2026, 21:34:48] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:35:01] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:35:06] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:35:06] [INFO ] GET /history → 304 (4ms)
+[22/4/2026, 21:35:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:36:39] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:36:39] [INFO ] GET /history → 304 (7ms)
+[22/4/2026, 21:36:43] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 21:36:55] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:36:58] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:36:58] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 21:37:04] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 21:37:04] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 21:37:07] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:37:59] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:37:59] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 21:38:03] [INFO ] GET /supervisors → 200 (4ms)
+[22/4/2026, 21:38:13] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:38:13] [INFO ] GET /history → 304 (5ms)
+[22/4/2026, 21:38:15] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:38:31] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:38:31] [INFO ] GET /history → 304 (6ms)
+[22/4/2026, 21:39:00] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 21:39:02] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 21:39:02] [INFO ] GET /history → 304 (4ms)
+[22/4/2026, 21:46:44] [INFO ] ========================================
+[22/4/2026, 21:46:44] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 21:46:44] [INFO ] ========================================
+[22/4/2026, 21:46:44] [INFO ] 
+   Open on ALL devices:
+   http://172.20.10.4:3001
+[22/4/2026, 21:46:44] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 21:46:44] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 21:46:44] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 21:46:44] [INFO ] ========================================
+
+[22/4/2026, 21:46:45] [INFO ] Device connected: GLVn4nf7QLhrlyQkAAAB
+[22/4/2026, 21:46:50] [INFO ] Device disconnected: GLVn4nf7QLhrlyQkAAAB
+[22/4/2026, 21:46:50] [INFO ] Device connected: MGYIAJGZWUINV5LWAAAD
+[22/4/2026, 21:46:50] [INFO ] GET / → 304 (12ms)
+[22/4/2026, 21:46:50] [INFO ] GET /queue → 304 (5ms)
+[22/4/2026, 21:46:50] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 21:46:58] [INFO ] Device disconnected: MGYIAJGZWUINV5LWAAAD
+[22/4/2026, 21:46:58] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 21:46:58] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 21:46:58] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:46:58] [INFO ] Device connected: DgeNbo7Sk8X31x4TAAAF
+[22/4/2026, 21:47:01] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 21:47:01] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 21:49:17] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:49:17] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 21:49:21] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:49:21] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 21:49:24] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:52:12] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:52:12] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 21:52:22] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 21:52:26] [INFO ] GET /supervisors → 304 (2ms)
+[22/4/2026, 21:52:35] [INFO ] PUT /4/dock → 200 (5ms)
+[22/4/2026, 21:52:35] [INFO ] PUT /5/dock → 200 (2ms)
+[22/4/2026, 21:52:35] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 21:52:35] [INFO ] GET /active → 304 (0ms)
+[22/4/2026, 21:52:35] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 21:52:37] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 21:52:37] [INFO ] GET /history → 304 (1ms)
+[22/4/2026, 21:55:35] [INFO ] Device disconnected: DgeNbo7Sk8X31x4TAAAF
+[22/4/2026, 21:55:41] [INFO ] Device connected: _wyJsiOBl57HG4EoAAAH
+[22/4/2026, 22:03:56] [INFO ] Device disconnected: _wyJsiOBl57HG4EoAAAH
+[22/4/2026, 22:03:59] [INFO ] Device connected: LXspSfMCkhxenMTdAAAJ
+[22/4/2026, 22:04:01] [INFO ] Device disconnected: LXspSfMCkhxenMTdAAAJ
+[22/4/2026, 22:05:59] [INFO ] Device connected: 6ce9Dw1i5CrFt_TtAAAL
+[22/4/2026, 22:07:28] [INFO ] Device disconnected: 6ce9Dw1i5CrFt_TtAAAL
+[22/4/2026, 22:24:35] [INFO ] ========================================
+[22/4/2026, 22:24:35] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 22:24:35] [INFO ] ========================================
+[22/4/2026, 22:24:35] [INFO ] 
+   Open on ALL devices:
+   http://192.168.1.40:3001
+[22/4/2026, 22:24:35] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 22:24:35] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 22:24:35] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 22:24:35] [INFO ] ========================================
+
+[22/4/2026, 22:24:50] [INFO ] ========================================
+[22/4/2026, 22:24:50] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 22:24:50] [INFO ] ========================================
+[22/4/2026, 22:24:50] [INFO ] 
+   Open on ALL devices:
+   http://192.168.1.40:3001
+[22/4/2026, 22:24:50] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 22:24:50] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 22:24:50] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 22:24:50] [INFO ] ========================================
+
+[22/4/2026, 22:24:54] [INFO ] Device connected: IeRO7jnIz9sz77ZdAAAB
+[22/4/2026, 22:25:06] [INFO ] POST /login → 200 (204ms)
+[22/4/2026, 22:25:06] [INFO ] GET / → 200 (10ms)
+[22/4/2026, 22:25:06] [INFO ] GET /queue → 200 (5ms)
+[22/4/2026, 22:25:06] [INFO ] GET /active → 200 (4ms)
+[22/4/2026, 22:25:12] [INFO ] GET /history → 200 (4ms)
+[22/4/2026, 22:25:12] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 22:25:15] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 22:25:15] [INFO ] GET /history → 304 (4ms)
+[22/4/2026, 22:25:16] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 22:25:46] [INFO ] GET /supervisors → 200 (6ms)
+[22/4/2026, 22:26:00] [INFO ] PUT /4/dock → 200 (43ms)
+[22/4/2026, 22:26:00] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 22:26:00] [INFO ] GET /queue → 304 (4ms)
+[22/4/2026, 22:26:00] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 22:26:02] [INFO ] GET /supervisors → 200 (2ms)
+[22/4/2026, 22:26:07] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 22:26:07] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 22:26:10] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 22:26:12] [INFO ] GET /active → 304 (6ms)
+[22/4/2026, 22:26:12] [INFO ] GET /history → 304 (2ms)
+[22/4/2026, 22:28:09] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 22:28:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 22:28:11] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 22:28:14] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 22:28:14] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 22:28:16] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 22:28:18] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 22:28:18] [INFO ] GET /history → 304 (3ms)
+[22/4/2026, 22:32:24] [INFO ] Device disconnected: IeRO7jnIz9sz77ZdAAAB
+[22/4/2026, 22:32:35] [INFO ] Device connected: cEQimez44GG-ONVKAAAD
+[22/4/2026, 22:32:56] [INFO ] Device disconnected: cEQimez44GG-ONVKAAAD
+[22/4/2026, 22:32:57] [INFO ] Device connected: -dI1kXf92J2Xwl7iAAAF
+[22/4/2026, 22:33:30] [INFO ] Device disconnected: -dI1kXf92J2Xwl7iAAAF
+[22/4/2026, 22:33:32] [INFO ] Device connected: FBQZhaJvvAa-qUVtAAAH
+[22/4/2026, 22:48:25] [INFO ] ========================================
+[22/4/2026, 22:48:25] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 22:48:25] [INFO ] ========================================
+[22/4/2026, 22:48:25] [INFO ] 
+   Open on ALL devices:
+   http://192.168.1.35:3001
+[22/4/2026, 22:48:25] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 22:48:25] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 22:48:25] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 22:48:25] [INFO ] ========================================
+
+[22/4/2026, 22:48:46] [INFO ] ========================================
+[22/4/2026, 22:48:46] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 22:48:46] [INFO ] ========================================
+[22/4/2026, 22:48:46] [INFO ] 
+   Open on ALL devices:
+   http://192.168.1.35:3001
+[22/4/2026, 22:48:46] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 22:48:46] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 22:48:46] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 22:48:46] [INFO ] ========================================
+
+[22/4/2026, 22:48:46] [INFO ] Device connected: bwcZwGeMh8AeepheAAAB
+[22/4/2026, 22:48:49] [INFO ] Device disconnected: bwcZwGeMh8AeepheAAAB
+[22/4/2026, 22:48:49] [INFO ] Device connected: 7wLLAOpZ_e9dXtm4AAAD
+[22/4/2026, 22:48:59] [INFO ] POST /login → 200 (87ms)
+[22/4/2026, 22:48:59] [INFO ] GET /performance → 200 (4ms)
+[22/4/2026, 22:48:59] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 22:48:59] [INFO ] GET /queue → 200 (2ms)
+[22/4/2026, 22:48:59] [INFO ] GET /active → 200 (2ms)
+[22/4/2026, 22:49:12] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 22:49:18] [INFO ] GET /history → 200 (2ms)
+[22/4/2026, 22:49:18] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 22:49:42] [INFO ] GET /performance → 304 (2ms)
+[22/4/2026, 22:50:08] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 22:50:09] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 22:51:08] [INFO ] POST /login → 200 (75ms)
+[22/4/2026, 22:51:08] [INFO ] GET /performance → 304 (2ms)
+[22/4/2026, 22:51:08] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 22:51:08] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 22:51:08] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 22:51:11] [INFO ] Device disconnected: 7wLLAOpZ_e9dXtm4AAAD
+[22/4/2026, 22:51:12] [INFO ] GET /performance → 200 (3ms)
+[22/4/2026, 22:51:12] [INFO ] Device connected: KvMr_NGO_3SDaEfKAAAF
+[22/4/2026, 22:51:12] [INFO ] GET / → 200 (2ms)
+[22/4/2026, 22:51:12] [INFO ] GET /queue → 200 (2ms)
+[22/4/2026, 22:51:12] [INFO ] GET /active → 200 (1ms)
+[22/4/2026, 22:51:53] [INFO ] Device disconnected: KvMr_NGO_3SDaEfKAAAF
+[22/4/2026, 22:51:53] [INFO ] GET /performance → 304 (2ms)
+[22/4/2026, 22:51:53] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 22:51:53] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 22:51:53] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 22:51:53] [INFO ] Device connected: 2B8IW1eJ3X3LFUtKAAAH
+[22/4/2026, 22:51:56] [INFO ] Device disconnected: 2B8IW1eJ3X3LFUtKAAAH
+[22/4/2026, 22:51:56] [INFO ] GET /performance → 304 (2ms)
+[22/4/2026, 22:51:56] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 22:51:56] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 22:51:56] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 22:51:56] [INFO ] Device connected: frUfBU1KSwezyiKDAAAJ
+[22/4/2026, 22:51:58] [INFO ] Device disconnected: frUfBU1KSwezyiKDAAAJ
+[22/4/2026, 22:51:58] [INFO ] GET /performance → 304 (2ms)
+[22/4/2026, 22:51:58] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 22:51:58] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 22:51:58] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 22:51:58] [INFO ] Device connected: qYGfSlQlG3mA44QAAAAL
+[22/4/2026, 22:51:59] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 22:52:07] [INFO ] POST / → 200 (7ms)
+[22/4/2026, 22:52:07] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 22:52:07] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 22:52:07] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 22:52:07] [INFO ] GET / → 200 (1ms)
+[22/4/2026, 22:52:07] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 22:52:07] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 22:52:07] [INFO ] GET /active → 304 (0ms)
+[22/4/2026, 22:52:09] [INFO ] GET /performance → 200 (1ms)
+[22/4/2026, 22:52:18] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 22:52:20] [INFO ] GET /performance → 304 (2ms)
+[22/4/2026, 22:52:22] [INFO ] Device disconnected: qYGfSlQlG3mA44QAAAAL
+[22/4/2026, 22:57:35] [INFO ] ========================================
+[22/4/2026, 22:57:35] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 22:57:35] [INFO ] ========================================
+[22/4/2026, 22:57:35] [INFO ] 
+   Open on ALL devices:
+   http://192.168.1.35:3001
+[22/4/2026, 22:57:35] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 22:57:35] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 22:57:35] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 22:57:35] [INFO ] ========================================
+
+[22/4/2026, 22:57:48] [INFO ] Device connected: R-rjokP2NWDmsRSjAAAB
+[22/4/2026, 22:57:48] [INFO ] GET /performance → 200 (18ms)
+[22/4/2026, 22:57:48] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 22:57:48] [INFO ] GET /queue → 304 (4ms)
+[22/4/2026, 22:57:48] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 22:58:42] [INFO ] Device connected: BBJLvqzh6rl8WsmVAAAD
+[22/4/2026, 22:58:49] [INFO ] POST /login → 200 (263ms)
+[22/4/2026, 22:58:49] [INFO ] GET /performance → 200 (13ms)
+[22/4/2026, 22:58:49] [INFO ] GET / → 200 (9ms)
+[22/4/2026, 22:58:49] [INFO ] GET /queue → 200 (3ms)
+[22/4/2026, 22:58:49] [INFO ] GET /active → 200 (3ms)
+[22/4/2026, 22:59:01] [INFO ] Device disconnected: BBJLvqzh6rl8WsmVAAAD
+[22/4/2026, 22:59:01] [INFO ] GET /performance → 304 (4ms)
+[22/4/2026, 22:59:01] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 22:59:01] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 22:59:01] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 22:59:01] [INFO ] Device connected: fceUdxeyVieQkGNlAAAF
+[22/4/2026, 22:59:06] [INFO ] Device disconnected: fceUdxeyVieQkGNlAAAF
+[22/4/2026, 22:59:06] [INFO ] GET /performance → 304 (3ms)
+[22/4/2026, 22:59:06] [INFO ] GET / → 304 (1ms)
+[22/4/2026, 22:59:06] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 22:59:06] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 22:59:06] [INFO ] Device connected: MwXmvBUE0fDsw_UnAAAH
+[22/4/2026, 22:59:11] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 22:59:25] [INFO ] Device disconnected: MwXmvBUE0fDsw_UnAAAH
+[22/4/2026, 23:03:20] [INFO ] Device disconnected: R-rjokP2NWDmsRSjAAAB
+[22/4/2026, 23:03:24] [INFO ] Device connected: kSb7KIZRSkpI4Ya3AAAJ
+[22/4/2026, 23:03:27] [INFO ] Device disconnected: kSb7KIZRSkpI4Ya3AAAJ
+[22/4/2026, 23:29:10] [INFO ] Device connected: SkgFgXIaSA4xIvBlAAAL
+[22/4/2026, 23:29:13] [INFO ] Device disconnected: SkgFgXIaSA4xIvBlAAAL
+[22/4/2026, 23:32:10] [INFO ] Device connected: 5GxOdXXBeW1w81VjAAAN
+[22/4/2026, 23:32:40] [INFO ] Device disconnected: 5GxOdXXBeW1w81VjAAAN
+[22/4/2026, 23:33:57] [INFO ] ========================================
+[22/4/2026, 23:33:57] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 23:33:57] [INFO ] ========================================
+[22/4/2026, 23:33:57] [INFO ] 
+   Open on ALL devices:
+   http://172.20.10.4:3001
+[22/4/2026, 23:33:57] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 23:33:57] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 23:33:57] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 23:33:57] [INFO ] ========================================
+
+[22/4/2026, 23:34:28] [INFO ] Device connected: -0ufGQKF5kIaOfz_AAAB
+[22/4/2026, 23:34:28] [INFO ] GET /performance → 401 (15ms)
+[22/4/2026, 23:34:28] [INFO ] GET / → 401 (4ms)
+[22/4/2026, 23:34:28] [INFO ] GET /queue → 401 (2ms)
+[22/4/2026, 23:34:28] [INFO ] GET /active → 401 (3ms)
+[22/4/2026, 23:34:28] [INFO ] Device disconnected: -0ufGQKF5kIaOfz_AAAB
+[22/4/2026, 23:34:28] [INFO ] Device connected: TWu7Scd7JKacnc-6AAAD
+[22/4/2026, 23:34:43] [INFO ] POST /login → 200 (194ms)
+[22/4/2026, 23:34:43] [INFO ] GET /performance → 200 (8ms)
+[22/4/2026, 23:34:43] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 23:34:43] [INFO ] GET /queue → 304 (4ms)
+[22/4/2026, 23:34:43] [INFO ] GET /active → 200 (7ms)
+[22/4/2026, 23:34:53] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 23:34:59] [INFO ] GET /template/docks → 200 (84ms)
+[22/4/2026, 23:35:46] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 23:35:48] [INFO ] GET /template/users → 200 (24ms)
+[22/4/2026, 23:40:38] [INFO ] Device disconnected: TWu7Scd7JKacnc-6AAAD
+[22/4/2026, 23:40:38] [INFO ] Device connected: eP53W8FgvWp5fmUSAAAF
+[22/4/2026, 23:40:38] [INFO ] GET /performance → 304 (3ms)
+[22/4/2026, 23:40:38] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 23:40:38] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 23:40:38] [INFO ] GET /active → 304 (1ms)
+[22/4/2026, 23:40:42] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 23:40:46] [INFO ] GET / → 304 (5ms)
+[22/4/2026, 23:40:56] [INFO ] Device disconnected: eP53W8FgvWp5fmUSAAAF
+[22/4/2026, 23:40:56] [INFO ] Device connected: jzcP3A0DttTFrCVOAAAH
+[22/4/2026, 23:40:56] [INFO ] GET /performance → 304 (3ms)
+[22/4/2026, 23:40:56] [INFO ] GET / → 304 (5ms)
+[22/4/2026, 23:40:56] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 23:40:56] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 23:40:59] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 23:41:00] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 23:41:04] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 23:43:51] [INFO ] ========================================
+[22/4/2026, 23:43:51] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 23:43:51] [INFO ] ========================================
+[22/4/2026, 23:43:51] [INFO ] 
+   Open on ALL devices:
+   http://172.20.10.4:3001
+[22/4/2026, 23:43:51] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 23:43:51] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 23:43:51] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 23:43:51] [INFO ] ========================================
+
+[22/4/2026, 23:43:56] [INFO ] Device connected: 0VoDatteHKVVX_DQAAAB
+[22/4/2026, 23:43:56] [INFO ] Device disconnected: 0VoDatteHKVVX_DQAAAB
+[22/4/2026, 23:43:57] [INFO ] Device connected: M-MDGauGnfzPGq7sAAAD
+[22/4/2026, 23:43:57] [INFO ] GET /performance → 304 (13ms)
+[22/4/2026, 23:43:57] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 23:43:57] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 23:43:57] [INFO ] GET /active → 304 (5ms)
+[22/4/2026, 23:44:07] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 23:44:10] [INFO ] GET /template/docks → 200 (88ms)
+[22/4/2026, 23:45:02] [INFO ] BULK DOCKS: 16 created, 0 errors by Administrator
+[22/4/2026, 23:45:02] [INFO ] POST /upload/docks → 200 (135ms)
+[22/4/2026, 23:45:02] [INFO ] GET / → 200 (4ms)
+[22/4/2026, 23:45:02] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 23:45:02] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 23:45:02] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 23:45:02] [INFO ] GET / → 304 (3ms)
+[22/4/2026, 23:45:02] [INFO ] GET /queue → 304 (2ms)
+[22/4/2026, 23:45:02] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 23:45:19] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 23:45:21] [INFO ] GET /template/users → 200 (40ms)
+[22/4/2026, 23:47:28] [INFO ] BULK USERS: 5 created, 0 errors by Administrator
+[22/4/2026, 23:47:28] [INFO ] POST /upload/users → 200 (1112ms)
+[22/4/2026, 23:47:28] [INFO ] GET / → 200 (3ms)
+[22/4/2026, 23:47:48] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 23:48:11] [INFO ] POST /login → 200 (171ms)
+[22/4/2026, 23:48:11] [INFO ] GET /performance → 200 (4ms)
+[22/4/2026, 23:48:11] [INFO ] GET / → 304 (2ms)
+[22/4/2026, 23:48:11] [INFO ] GET /queue → 304 (1ms)
+[22/4/2026, 23:48:11] [INFO ] GET /active → 304 (2ms)
+[22/4/2026, 23:48:33] [INFO ] GET /supervisors → 200 (2ms)
+[22/4/2026, 23:53:16] [INFO ] ========================================
+[22/4/2026, 23:53:16] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 23:53:16] [INFO ] ========================================
+[22/4/2026, 23:53:16] [INFO ] 
+   Open on ALL devices:
+   http://172.20.10.4:3001
+[22/4/2026, 23:53:16] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 23:53:16] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 23:53:16] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 23:53:16] [INFO ] ========================================
+
+[22/4/2026, 23:53:20] [INFO ] Device connected: NMwLW_gS7QgzJEpiAAAB
+[22/4/2026, 23:53:22] [INFO ] Device disconnected: NMwLW_gS7QgzJEpiAAAB
+[22/4/2026, 23:53:22] [INFO ] Device connected: WG6p6sixCYbRqjknAAAD
+[22/4/2026, 23:53:22] [INFO ] GET /performance → 304 (16ms)
+[22/4/2026, 23:53:22] [INFO ] GET / → 304 (4ms)
+[22/4/2026, 23:53:22] [INFO ] GET /queue → 304 (3ms)
+[22/4/2026, 23:53:22] [INFO ] GET /active → 304 (4ms)
+[22/4/2026, 23:53:38] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 23:53:38] [INFO ] GET /history → 200 (5ms)
+[22/4/2026, 23:53:50] [INFO ] GET / → 304 (5ms)
+[22/4/2026, 23:53:54] [INFO ] GET / → 304 (5ms)
+[22/4/2026, 23:54:37] [INFO ] POST /login → 200 (202ms)
+[22/4/2026, 23:54:37] [INFO ] GET /active → 304 (3ms)
+[22/4/2026, 23:54:37] [INFO ] GET /history → 200 (3ms)
+[22/4/2026, 23:55:28] [INFO ] POST /api/vehicles/register → 500 (27ms)
+[22/4/2026, 23:55:37] [INFO ] POST /api/vehicles/register → 500 (11ms)
+[22/4/2026, 23:55:54] [INFO ] POST /api/vehicles/register → 500 (20ms)
+[22/4/2026, 23:59:22] [INFO ] ========================================
+[22/4/2026, 23:59:22] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[22/4/2026, 23:59:22] [INFO ] ========================================
+[22/4/2026, 23:59:22] [INFO ] 
+   Open on ALL devices:
+   http://172.20.10.4:3001
+[22/4/2026, 23:59:22] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[22/4/2026, 23:59:22] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[22/4/2026, 23:59:22] [INFO ] 
+   Default login: admin / admin123
+[22/4/2026, 23:59:22] [INFO ] ========================================
+
+[22/4/2026, 23:59:26] [INFO ] Device connected: kibiAVC08KP2IcEYAAAB
+[22/4/2026, 23:59:26] [INFO ] Device disconnected: kibiAVC08KP2IcEYAAAB
+[22/4/2026, 23:59:26] [INFO ] Device connected: a15jj6wwb4EeulA9AAAD
+[22/4/2026, 23:59:27] [INFO ] GET /active → 304 (14ms)
+[22/4/2026, 23:59:27] [INFO ] GET /history → 304 (3ms)
+[23/4/2026, 00:00:03] [ERROR] API ERROR POST /vehicles/register: db.transaction is not a function
+TypeError: db.transaction is not a function
+    at C:\Users\Puneet\Desktop\vehicle\server\routes\vehicles.js:98:19
+    at Layer.handle [as handle_request] (C:\Users\Puneet\Desktop\vehicle\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Puneet\Desktop\vehicle\node_modules\express\lib\router\route.js:149:13)
+    at done (C:\Users\Puneet\Desktop\vehicle\node_modules\multer\lib\make-middleware.js:47:7)
+    at indicateDone (C:\Users\Puneet\Desktop\vehicle\node_modules\multer\lib\make-middleware.js:51:68)
+    at C:\Users\Puneet\Desktop\vehicle\node_modules\multer\lib\make-middleware.js:157:11
+    at WriteStream.<anonymous> (C:\Users\Puneet\Desktop\vehicle\node_modules\multer\storage\disk.js:43:9)
+    at WriteStream.emit (node:events:520:35)
+    at finish (node:internal/streams/writable:953:10)
+    at node:internal/streams/writable:934:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+[23/4/2026, 00:00:03] [INFO ] POST /vehicles/register → 500 (38ms)
+[23/4/2026, 00:00:14] [ERROR] API ERROR POST /vehicles/register: db.transaction is not a function
+TypeError: db.transaction is not a function
+    at C:\Users\Puneet\Desktop\vehicle\server\routes\vehicles.js:98:19
+    at Layer.handle [as handle_request] (C:\Users\Puneet\Desktop\vehicle\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\Puneet\Desktop\vehicle\node_modules\express\lib\router\route.js:149:13)
+    at done (C:\Users\Puneet\Desktop\vehicle\node_modules\multer\lib\make-middleware.js:47:7)
+    at indicateDone (C:\Users\Puneet\Desktop\vehicle\node_modules\multer\lib\make-middleware.js:51:68)
+    at C:\Users\Puneet\Desktop\vehicle\node_modules\multer\lib\make-middleware.js:157:11
+    at WriteStream.<anonymous> (C:\Users\Puneet\Desktop\vehicle\node_modules\multer\storage\disk.js:43:9)
+    at WriteStream.emit (node:events:520:35)
+    at finish (node:internal/streams/writable:953:10)
+    at node:internal/streams/writable:934:13
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+[23/4/2026, 00:00:14] [INFO ] POST /vehicles/register → 500 (13ms)
+[23/4/2026, 00:03:01] [INFO ] ========================================
+[23/4/2026, 00:03:01] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[23/4/2026, 00:03:01] [INFO ] ========================================
+[23/4/2026, 00:03:01] [INFO ] 
+   Open on ALL devices:
+   http://172.20.10.4:3001
+[23/4/2026, 00:03:01] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[23/4/2026, 00:03:01] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[23/4/2026, 00:03:01] [INFO ] 
+   Default login: admin / admin123
+[23/4/2026, 00:03:01] [INFO ] ========================================
+
+[23/4/2026, 00:03:02] [INFO ] Device connected: dPVpk3uC7gEpV8TuAAAB
+[23/4/2026, 00:03:06] [INFO ] ARRIVED: KA05LP0074 | shipment: S-F-00121 | driver: PUNEET | dock: QUEUE | by: Ramesh Gupta
+[23/4/2026, 00:03:06] [INFO ] POST /register → 200 (94ms)
+[23/4/2026, 00:03:06] [INFO ] GET /active → 200 (5ms)
+[23/4/2026, 00:03:06] [INFO ] GET /history → 200 (5ms)
+[23/4/2026, 00:03:51] [INFO ] POST /login → 200 (194ms)
+[23/4/2026, 00:03:51] [INFO ] GET /active → 304 (4ms)
+[23/4/2026, 00:03:51] [INFO ] GET /history → 304 (4ms)
+[23/4/2026, 00:04:06] [INFO ] POST /login → 200 (174ms)
+[23/4/2026, 00:04:06] [INFO ] GET /performance → 304 (3ms)
+[23/4/2026, 00:04:06] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:04:06] [INFO ] GET /queue → 200 (3ms)
+[23/4/2026, 00:04:06] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:04:11] [INFO ] GET /supervisors → 304 (3ms)
+[23/4/2026, 00:04:17] [INFO ] PUT /6/dock → 200 (46ms)
+[23/4/2026, 00:04:17] [INFO ] GET / → 200 (3ms)
+[23/4/2026, 00:04:17] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:04:17] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:04:22] [INFO ] Device disconnected: dPVpk3uC7gEpV8TuAAAB
+[23/4/2026, 00:04:22] [INFO ] GET /performance → 200 (3ms)
+[23/4/2026, 00:04:22] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:04:22] [INFO ] GET /queue → 304 (3ms)
+[23/4/2026, 00:04:22] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:04:22] [INFO ] Device connected: MZTeSyT5GA47AbXkAAAD
+[23/4/2026, 00:04:25] [INFO ] Device disconnected: MZTeSyT5GA47AbXkAAAD
+[23/4/2026, 00:04:25] [INFO ] GET /performance → 304 (3ms)
+[23/4/2026, 00:04:25] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:04:25] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:04:25] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:04:25] [INFO ] Device connected: epxlqRQuh4HumsiEAAAF
+[23/4/2026, 00:04:29] [INFO ] Device disconnected: epxlqRQuh4HumsiEAAAF
+[23/4/2026, 00:04:29] [INFO ] GET /performance → 304 (4ms)
+[23/4/2026, 00:04:30] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:04:30] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:04:30] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:04:30] [INFO ] Device connected: j1dQFYbGhZQ_t2NLAAAH
+[23/4/2026, 00:04:37] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:04:37] [INFO ] GET /history → 200 (3ms)
+[23/4/2026, 00:04:52] [INFO ] GET /performance → 304 (3ms)
+[23/4/2026, 00:05:51] [INFO ] GET /history → 304 (3ms)
+[23/4/2026, 00:05:51] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:06:42] [INFO ] POST /login → 200 (163ms)
+[23/4/2026, 00:06:42] [INFO ] GET /performance → 304 (5ms)
+[23/4/2026, 00:06:42] [INFO ] GET / → 304 (4ms)
+[23/4/2026, 00:06:42] [INFO ] GET /queue → 304 (1ms)
+[23/4/2026, 00:06:43] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:07:28] [INFO ] Device disconnected: j1dQFYbGhZQ_t2NLAAAH
+[23/4/2026, 00:07:28] [INFO ] GET /queue → 304 (3ms)
+[23/4/2026, 00:07:28] [INFO ] Device connected: cW3936RAnq5YNxIPAAAJ
+[23/4/2026, 00:07:28] [INFO ] GET /performance → 304 (4ms)
+[23/4/2026, 00:07:28] [INFO ] GET / → 304 (4ms)
+[23/4/2026, 00:07:28] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:07:30] [INFO ] Device disconnected: cW3936RAnq5YNxIPAAAJ
+[23/4/2026, 00:07:30] [INFO ] GET /performance → 304 (3ms)
+[23/4/2026, 00:07:30] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:07:30] [INFO ] GET /queue → 304 (3ms)
+[23/4/2026, 00:07:30] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:07:30] [INFO ] Device connected: T7Vo0OjoajX8z87WAAAL
+[23/4/2026, 00:07:31] [INFO ] Device disconnected: T7Vo0OjoajX8z87WAAAL
+[23/4/2026, 00:07:31] [INFO ] GET /performance → 304 (4ms)
+[23/4/2026, 00:07:31] [INFO ] GET / → 304 (4ms)
+[23/4/2026, 00:07:31] [INFO ] GET /queue → 304 (4ms)
+[23/4/2026, 00:07:31] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:07:31] [INFO ] Device connected: iTGe7XUbg37RxIw3AAAN
+[23/4/2026, 00:07:31] [INFO ] Device disconnected: iTGe7XUbg37RxIw3AAAN
+[23/4/2026, 00:07:31] [INFO ] GET /performance → 304 (4ms)
+[23/4/2026, 00:07:31] [INFO ] GET / → 304 (4ms)
+[23/4/2026, 00:07:31] [INFO ] GET /queue → 304 (3ms)
+[23/4/2026, 00:07:31] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:07:31] [INFO ] Device connected: 1nHP2R9S1aoohe4SAAAP
+[23/4/2026, 00:07:32] [INFO ] Device disconnected: 1nHP2R9S1aoohe4SAAAP
+[23/4/2026, 00:07:32] [INFO ] GET /performance → 304 (3ms)
+[23/4/2026, 00:07:32] [INFO ] Device connected: -f5BKYZIKDJqvBmqAAAR
+[23/4/2026, 00:07:32] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:07:32] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:07:32] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:07:32] [INFO ] Device disconnected: -f5BKYZIKDJqvBmqAAAR
+[23/4/2026, 00:07:32] [INFO ] GET /performance → 304 (4ms)
+[23/4/2026, 00:07:32] [INFO ] Device connected: svAa_Z6Qfn-FmLixAAAT
+[23/4/2026, 00:07:32] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:07:32] [INFO ] GET /queue → 304 (3ms)
+[23/4/2026, 00:07:32] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:07:33] [INFO ] Device disconnected: svAa_Z6Qfn-FmLixAAAT
+[23/4/2026, 00:07:33] [INFO ] GET /performance → 304 (4ms)
+[23/4/2026, 00:07:33] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:07:33] [INFO ] Device connected: 4P71dgzw_s79jQ33AAAV
+[23/4/2026, 00:07:33] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:07:33] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:07:33] [INFO ] Device disconnected: 4P71dgzw_s79jQ33AAAV
+[23/4/2026, 00:07:33] [INFO ] GET /performance → 304 (3ms)
+[23/4/2026, 00:07:33] [INFO ] Device connected: rle1eOaaKZd2ENOtAAAX
+[23/4/2026, 00:07:33] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:07:33] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:07:33] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:07:44] [INFO ] ========================================
+[23/4/2026, 00:07:44] [INFO ]    VEHICLE FC MANAGER - SERVER RUNNING
+[23/4/2026, 00:07:44] [INFO ] ========================================
+[23/4/2026, 00:07:44] [INFO ] 
+   Open on ALL devices:
+   http://172.20.10.4:3001
+[23/4/2026, 00:07:44] [INFO ] 
+   Local (this PC):
+   http://localhost:3001
+[23/4/2026, 00:07:44] [INFO ] 
+   Logs folder: C:\Users\Puneet\Desktop\vehicle\server\logs
+[23/4/2026, 00:07:44] [INFO ] 
+   Default login: admin / admin123
+[23/4/2026, 00:07:44] [INFO ] ========================================
+
+[23/4/2026, 00:07:44] [INFO ] Device connected: QMDE_fGUBVn1_SqTAAAB
+[23/4/2026, 00:07:54] [INFO ] Device disconnected: QMDE_fGUBVn1_SqTAAAB
+[23/4/2026, 00:07:54] [INFO ] GET /performance → 304 (16ms)
+[23/4/2026, 00:07:54] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:07:54] [INFO ] GET /queue → 304 (4ms)
+[23/4/2026, 00:07:54] [INFO ] GET /active → 304 (5ms)
+[23/4/2026, 00:07:54] [INFO ] Device connected: MZTdWbk1Gj7Ic38pAAAD
+[23/4/2026, 00:07:55] [INFO ] Device disconnected: MZTdWbk1Gj7Ic38pAAAD
+[23/4/2026, 00:07:55] [INFO ] GET /performance → 304 (4ms)
+[23/4/2026, 00:07:55] [INFO ] GET / → 304 (5ms)
+[23/4/2026, 00:07:55] [INFO ] GET /queue → 304 (4ms)
+[23/4/2026, 00:07:55] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:07:55] [INFO ] Device connected: qtjV3skD1jl3b-stAAAF
+[23/4/2026, 00:07:58] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:07:58] [INFO ] GET /history → 304 (3ms)
+[23/4/2026, 00:08:06] [INFO ] GET / → 200 (4ms)
+[23/4/2026, 00:08:09] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:08:09] [INFO ] GET /history → 304 (3ms)
+[23/4/2026, 00:08:15] [INFO ] GET /performance → 304 (4ms)
+[23/4/2026, 00:08:17] [INFO ] GET /supervisors → 200 (3ms)
+[23/4/2026, 00:08:19] [INFO ] PUT /6/dock → 200 (42ms)
+[23/4/2026, 00:08:19] [INFO ] GET / → 200 (4ms)
+[23/4/2026, 00:08:19] [INFO ] GET /queue → 304 (3ms)
+[23/4/2026, 00:08:19] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:08:20] [INFO ] GET /supervisors → 200 (3ms)
+[23/4/2026, 00:08:26] [INFO ] AUTO-DRAIN: KA05LP0074 → dock DOCK-04
+[23/4/2026, 00:08:26] [INFO ] PUT /6/dock → 200 (56ms)
+[23/4/2026, 00:08:26] [INFO ] GET / → 200 (4ms)
+[23/4/2026, 00:08:26] [INFO ] GET /queue → 200 (3ms)
+[23/4/2026, 00:08:26] [INFO ] GET /active → 200 (2ms)
+[23/4/2026, 00:08:26] [INFO ] GET /history → 200 (3ms)
+[23/4/2026, 00:08:26] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:08:26] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:08:26] [INFO ] GET /performance → 200 (5ms)
+[23/4/2026, 00:08:26] [INFO ] GET / → 304 (4ms)
+[23/4/2026, 00:08:26] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:08:26] [INFO ] GET /active → 304 (4ms)
+[23/4/2026, 00:08:26] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:08:26] [INFO ] GET /queue → 304 (3ms)
+[23/4/2026, 00:08:26] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:08:26] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:08:26] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:08:26] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:08:26] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:08:26] [INFO ] GET /queue → 304 (3ms)
+[23/4/2026, 00:08:26] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:08:26] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:08:26] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:08:26] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:08:26] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:08:26] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:08:26] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:08:26] [INFO ] GET /history → 304 (2ms)
+[23/4/2026, 00:08:46] [INFO ] POST /login → 200 (206ms)
+[23/4/2026, 00:08:46] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:08:46] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GATE OPEN: KA05LP0074 | dock: 4 | by: monu
+[23/4/2026, 00:09:55] [INFO ] POST /1/start-unloading → 200 (72ms)
+[23/4/2026, 00:09:55] [INFO ] GET / → 200 (3ms)
+[23/4/2026, 00:09:55] [INFO ] GET /queue → 304 (3ms)
+[23/4/2026, 00:09:55] [INFO ] GET /active → 200 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET /history → 200 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:09:55] [INFO ] GET /queue → 304 (1ms)
+[23/4/2026, 00:09:55] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:09:55] [INFO ] GET /queue → 304 (3ms)
+[23/4/2026, 00:09:55] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:09:55] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET /history → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:09:55] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:09:55] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:09:55] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:10:06] [INFO ] OFFLOADED: KA05LP0074 | by: monu
+[23/4/2026, 00:10:06] [INFO ] POST /1/offloaded → 200 (63ms)
+[23/4/2026, 00:10:06] [INFO ] GET / → 200 (6ms)
+[23/4/2026, 00:10:06] [INFO ] GET /queue → 304 (3ms)
+[23/4/2026, 00:10:06] [INFO ] GET /active → 200 (3ms)
+[23/4/2026, 00:10:06] [INFO ] GET /queue → 304 (1ms)
+[23/4/2026, 00:10:06] [INFO ] GET /queue → 304 (3ms)
+[23/4/2026, 00:10:06] [INFO ] GET /queue → 304 (4ms)
+[23/4/2026, 00:10:06] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:10:06] [INFO ] GET /queue → 304 (3ms)
+[23/4/2026, 00:10:06] [INFO ] GET /history → 200 (3ms)
+[23/4/2026, 00:10:06] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:10:06] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:10:06] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:10:06] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:10:06] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:10:06] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:10:06] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:10:06] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:10:06] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:10:06] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:10:06] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:10:06] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:10:06] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:10:06] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:10:06] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:10:06] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:10:06] [INFO ] GET /history → 304 (2ms)
+[23/4/2026, 00:10:31] [INFO ] POST /login → 200 (176ms)
+[23/4/2026, 00:10:31] [INFO ] GET /performance → 200 (4ms)
+[23/4/2026, 00:10:31] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:10:31] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:10:31] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:10:37] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:10:37] [INFO ] GET /history → 304 (3ms)
+[23/4/2026, 00:11:03] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:11:05] [INFO ] GET / → 200 (2ms)
+[23/4/2026, 00:11:06] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:06] [INFO ] GET /history → 304 (2ms)
+[23/4/2026, 00:11:07] [INFO ] GET /performance → 304 (4ms)
+[23/4/2026, 00:11:11] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:11:11] [INFO ] GET /history → 304 (3ms)
+[23/4/2026, 00:11:20] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:11:22] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:11:23] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:11:23] [INFO ] GET /history → 304 (3ms)
+[23/4/2026, 00:11:24] [INFO ] GET /performance → 304 (4ms)
+[23/4/2026, 00:11:43] [INFO ] POST /login → 200 (182ms)
+[23/4/2026, 00:11:43] [INFO ] GET /active → 304 (4ms)
+[23/4/2026, 00:11:43] [INFO ] GET /history → 200 (4ms)
+[23/4/2026, 00:11:51] [INFO ] DEPARTED: KA05LP0074 | by: Ramesh Gupta
+[23/4/2026, 00:11:51] [INFO ] POST /1/depart → 200 (13ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (5ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (4ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /history → 200 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 200 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /history → 200 (3ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:11:51] [INFO ] GET /history → 304 (3ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (4ms)
+[23/4/2026, 00:11:51] [INFO ] GET /history → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /history → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /history → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (1ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /history → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /history → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (1ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (1ms)
+[23/4/2026, 00:11:51] [INFO ] GET / → 304 (3ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (3ms)
+[23/4/2026, 00:11:51] [INFO ] GET /queue → 304 (3ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (1ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:11:51] [INFO ] GET /active → 304 (2ms)
+[23/4/2026, 00:12:04] [INFO ] Device disconnected: qtjV3skD1jl3b-stAAAF
